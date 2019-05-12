@@ -1,19 +1,10 @@
 
-.col {
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 auto;
-}
 .pixel {
-  height: 25px;
-  border: solid black 1px;
+  height: 5px;
+  width: 5px;
+  padding: 0px;
+  border: solid red 1px;
   box-sizing: content-box;
-  flex: 1 1 auto;
 }
 
-#container {
-  display: flex;
-  width: 100vw;
-  height: 100vh;
 
-}

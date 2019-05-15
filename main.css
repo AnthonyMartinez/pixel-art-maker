@@ -3,13 +3,20 @@
   height: 15px;
   width: 15px;
   padding: 0px;
-  border: solid grey 1px;
   box-sizing: content-box;
+  background-color: white;
 }
 
 .color-choice {
   height: 30px;
   width: 30px;
   margin: 5px;
+  border: solid black 1px;
 }
+
+#main {
+  background-color: grey
+}
+
+
 
